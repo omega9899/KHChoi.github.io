@@ -1,0 +1,3 @@
+/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/computerVision/cannyEdge/build/CMakeFiles/edit_cache.dir
+/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/computerVision/cannyEdge/build/CMakeFiles/rebuild_cache.dir
+/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/computerVision/cannyEdge/build/CMakeFiles/CProj.out.dir

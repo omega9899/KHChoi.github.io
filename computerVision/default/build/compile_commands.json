@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/alpha/Desktop/project/ComputerVision/default/build",
+  "command": "/usr/bin/g++  -DPROJECT_ROOT=\\\"/home/alpha/Desktop/project/ComputerVision/default\\\" -DTARGET_OS=\\\"LINUX\\\" -DUSE_OPENCV=false -I/home/alpha/Desktop/project/ComputerVision/default/source -I/home/alpha/Desktop/project/ComputerVision/default/source/header -isystem /usr/local/include/opencv4  -std=c++20 -g   -w -g -o CMakeFiles/CProj.out.dir/source/main.cpp.o -c /home/alpha/Desktop/project/ComputerVision/default/source/main.cpp",
+  "file": "/home/alpha/Desktop/project/ComputerVision/default/source/main.cpp"
+},
+{
+  "directory": "/home/alpha/Desktop/project/ComputerVision/default/build",
+  "command": "/usr/bin/g++  -DPROJECT_ROOT=\\\"/home/alpha/Desktop/project/ComputerVision/default\\\" -DTARGET_OS=\\\"LINUX\\\" -DUSE_OPENCV=false -I/home/alpha/Desktop/project/ComputerVision/default/source -I/home/alpha/Desktop/project/ComputerVision/default/source/header -isystem /usr/local/include/opencv4  -std=c++20 -g   -w -g -o CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.o -c /home/alpha/Desktop/project/ComputerVision/default/source/src/CVUtils.cpp",
+  "file": "/home/alpha/Desktop/project/ComputerVision/default/source/src/CVUtils.cpp"
+}
+]
