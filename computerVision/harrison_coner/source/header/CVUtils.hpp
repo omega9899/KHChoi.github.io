@@ -10,9 +10,13 @@
 
 cv::Mat ImgLoadingFromPath(std::string target_path);
 cv::Mat GrayImgLoadingFromPath(std::string target_path);
+
 void HarrisonCornerSim(std::string img_path
                         ,int window_size
-                        ,float k, float threshold
-                        ,std::string output_path);
+                        ,float k
+                        ,float threshold
+                        ,std::string output_path
+                        ,int score_box=5);
+void MatchingPoint();
 
 #endif

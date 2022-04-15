@@ -8,7 +8,8 @@ void HarrisonCornerSim(std::string img_path
                         ,int window_size
                         ,float k
                         ,float threshold
-                        ,std::string output_path)
+                        ,std::string output_path
+                        ,int score_box=5)
 {
     /* loading image */
     cv::Mat gray_img = cv::imread(img_path, cv::IMREAD_GRAYSCALE);
@@ -60,9 +61,9 @@ void HarrisonCornerSim(std::string img_path
 
     cv::Mat original_img = cv::imread(img_path, cv::IMREAD_COLOR);  
     cv::resize(original_img, original_img, cv::Size(500,500));
-    for(int y = 0; y<score.rows; y+=5)
+    for(int y = 0; y<score.rows; y+=score_box)
     {
-        for(int x = 0; x<score.cols; x+=5)
+        for(int x = 0; x<score.cols; x+=score_box)
         {
             if( score.at<float>(y,x) > max_f64*(0.01))
             {
@@ -75,3 +76,7 @@ void HarrisonCornerSim(std::string img_path
     //cv::imwrite("/home/alpha/Desktop/project/DB/sample/output_.jpg",original_img);
 }
 
+void MatchingPoint()
+{
+
+}
