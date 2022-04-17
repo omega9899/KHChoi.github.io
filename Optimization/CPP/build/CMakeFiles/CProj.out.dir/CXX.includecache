@@ -20,6 +20,12 @@ opencv2/highgui.hpp
 opencv2/opencv.hpp
 -
 
+/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/header/my_typedecut.hpp
+type_traits
+-
+iostream
+-
+
 /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/main.cpp
 iostream
 -
@@ -31,6 +37,8 @@ memory
 -
 header/CVUtils.hpp
 /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/header/CVUtils.hpp
+header/my_typedecut.hpp
+/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/header/my_typedecut.hpp
 
 /usr/local/include/opencv4/opencv2/calib3d.hpp
 opencv2/core.hpp
