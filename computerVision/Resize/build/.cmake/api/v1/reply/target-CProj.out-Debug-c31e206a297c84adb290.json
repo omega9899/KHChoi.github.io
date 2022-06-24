@@ -71,7 +71,7 @@
 			[
 				{
 					"backtrace" : 3,
-					"define" : "PROJECT_ROOT=\"/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP\""
+					"define" : "PROJECT_ROOT=\"/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/computerVision/Resize\""
 				},
 				{
 					"backtrace" : 3,
@@ -86,11 +86,11 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source"
+					"path" : "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/computerVision/Resize/source"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/header"
+					"path" : "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/computerVision/Resize/source/header"
 				},
 				{
 					"backtrace" : 1,

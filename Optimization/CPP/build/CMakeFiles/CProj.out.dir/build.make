@@ -60,28 +60,28 @@ include CMakeFiles/CProj.out.dir/flags.make
 CMakeFiles/CProj.out.dir/source/main.cpp.o: CMakeFiles/CProj.out.dir/flags.make
 CMakeFiles/CProj.out.dir/source/main.cpp.o: ../source/main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CProj.out.dir/source/main.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CProj.out.dir/source/main.cpp.o -c /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/main.cpp
+	/bin/x86_64-linux-gnu-g++-11  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CProj.out.dir/source/main.cpp.o -c /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/main.cpp
 
 CMakeFiles/CProj.out.dir/source/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CProj.out.dir/source/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/main.cpp > CMakeFiles/CProj.out.dir/source/main.cpp.i
+	/bin/x86_64-linux-gnu-g++-11 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/main.cpp > CMakeFiles/CProj.out.dir/source/main.cpp.i
 
 CMakeFiles/CProj.out.dir/source/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CProj.out.dir/source/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/main.cpp -o CMakeFiles/CProj.out.dir/source/main.cpp.s
+	/bin/x86_64-linux-gnu-g++-11 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/main.cpp -o CMakeFiles/CProj.out.dir/source/main.cpp.s
 
 CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.o: CMakeFiles/CProj.out.dir/flags.make
 CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.o: ../source/src/CVUtils.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.o -c /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/src/CVUtils.cpp
+	/bin/x86_64-linux-gnu-g++-11  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.o -c /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/src/CVUtils.cpp
 
 CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/src/CVUtils.cpp > CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.i
+	/bin/x86_64-linux-gnu-g++-11 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/src/CVUtils.cpp > CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.i
 
 CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/src/CVUtils.cpp -o CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.s
+	/bin/x86_64-linux-gnu-g++-11 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/src/CVUtils.cpp -o CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.s
 
 # Object files for target CProj.out
 CProj_out_OBJECTS = \

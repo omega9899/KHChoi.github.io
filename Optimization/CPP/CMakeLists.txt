@@ -5,8 +5,8 @@ project(CProject)
 ### Set verbose setting
 set(CMAKE_VERBOSE_MAKEFILE OFF)
 ### gcc/g++ property setting
-set(CMAKE_CXX_FLAGS "-std=c++20")
-set(CMAKE_CXX_COMPILER "/usr/bin/g++")
+#set(CMAKE_CXX_FLAGS "-std=c++20")
+#set(CMAKE_CXX_COMPILER "/usr/bin/g++")
 #set(CMAKE_C_FLAGS "-std=c++20")
 set(CMAKE_C_COMPILER "/usr/bin/gcc")
 
@@ -60,7 +60,7 @@ LINK_LIBRARIES(
 )
 
 ### Add compiler option
-add_compile_options(-w -g)
+add_compile_options(-w -g) #-fno-elide-constructors)
 ### Add definition( macro )
 add_definitions(-DPROJECT_ROOT="${BASE_PATH}" 
                             -DTARGET_OS="LINUX" 

@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "CProj.out::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CProj.out-Debug-0df53292a1f1ff1cf5bf.json",
+					"jsonFile" : "target-CProj.out-Debug-c31e206a297c84adb290.json",
 					"name" : "CProj.out",
 					"projectIndex" : 0
 				}
@@ -48,8 +48,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/build",
-		"source" : "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP"
+		"build" : "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/computerVision/Resize/build",
+		"source" : "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/computerVision/Resize"
 	},
 	"version" : 
 	{
