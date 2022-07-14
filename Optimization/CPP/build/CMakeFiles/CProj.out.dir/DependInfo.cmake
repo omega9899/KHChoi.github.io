@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/main.cpp" "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/build/CMakeFiles/CProj.out.dir/source/main.cpp.o"
-  "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/source/src/CVUtils.cpp" "/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP/build/CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.o"
+  "/home/alpha/Desktop/Project/KHChoi.github.io/Optimization/CPP/source/main.cpp" "/home/alpha/Desktop/Project/KHChoi.github.io/Optimization/CPP/build/CMakeFiles/CProj.out.dir/source/main.cpp.o"
+  "/home/alpha/Desktop/Project/KHChoi.github.io/Optimization/CPP/source/src/CVUtils.cpp" "/home/alpha/Desktop/Project/KHChoi.github.io/Optimization/CPP/build/CMakeFiles/CProj.out.dir/source/src/CVUtils.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
-  "PROJECT_ROOT=\"/home/alpha/Desktop/Study/PersonalGit/KHChoi.github.io/Optimization/CPP\""
+  "PROJECT_ROOT=\"/home/alpha/Desktop/Project/KHChoi.github.io/Optimization/CPP\""
   "TARGET_OS=\"LINUX\""
   "USE_OPENCV=false"
   )
@@ -20,7 +20,6 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../source"
   "../source/header"
-  "/usr/local/include/opencv4"
   )
 
 # Targets to which this target links.

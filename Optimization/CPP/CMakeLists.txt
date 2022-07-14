@@ -28,7 +28,7 @@ SET(C_SRC_FILES ${FILE_LISTS_SRC})
 
 #### set additional package and link include/lib path
 #set(TensorRT_DIR "/usr/local/TensorRT")
-find_package(OpenCV REQUIRED)
+#find_package(OpenCV REQUIRED)
 #find_package(CUDA REQUIRED)
 #find_package(TensorRT REQUIRED)
 
@@ -39,7 +39,7 @@ INCLUDE_DIRECTORIES(
                         ${SOURCE_LOCATION}/header
                         #example.
                         #${SOURCE_LOCATION}/include
-                        ${OpenCV_INCLUDE_DIR}
+                        #${OpenCV_INCLUDE_DIR}
                         #${CUDA_INCLUDE_DIRS}
                         #${TensorRT_INCLUDE_DIRS}
                         #"-I/usr/local/TensorRT/include/"
@@ -47,7 +47,7 @@ INCLUDE_DIRECTORIES(
 ### link library by adding option below command
 LINK_LIBRARIES(
             ### OPENCV
-            ${OpenCV_LIBRARIES}
+            #${OpenCV_LIBRARIES}
             ### CUDA
             #${CUDA_LIBRARIES}
             ### TensorRT
